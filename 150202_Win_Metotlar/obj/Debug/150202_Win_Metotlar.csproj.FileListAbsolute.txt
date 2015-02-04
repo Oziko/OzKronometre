@@ -1,0 +1,13 @@
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\bin\Debug\150202_Win_Metotlar.exe.config
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.csprojResolveAssemblyReference.cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\_150202_Win_Metotlar.Form1.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\_150202_Win_Metotlar.Properties.Resources.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.csproj.GenerateResource.Cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\bin\Debug\150202_Win_Metotlar.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\bin\Debug\150202_Win_Metotlar.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\bin\Debug\150202_Win_Metotlar.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\bin\Debug\150202_Win_Metotlar.application
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150202_Win_Metotlar\150202_Win_Metotlar\obj\Debug\150202_Win_Metotlar.application
